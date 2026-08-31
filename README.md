@@ -66,7 +66,7 @@ Admin users can view:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/medical-store-management-system.git
+git clone https://github.com/efaz-codes/Capstone-Project.git
 cd medical-store-management-system
 ```
 
