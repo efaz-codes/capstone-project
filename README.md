@@ -1,9 +1,10 @@
 # Medical Store Management System
+![Capstone Project Demo](demo.gif)
 
 A console-based Medical Store Management System developed in **C** for the **SE 133 — Software Development Capstone Project** course.
 
 The application helps manage a small pharmacy's medicine inventory, sales, billing, stock status, expiry dates, and staff-wise sales activity. Data is stored locally in text files, so records persist between program runs.
-![Capstone Project Demo](project-demo.gif)
+
 ## Features
 
 ### Role-Based Access
